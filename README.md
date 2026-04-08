@@ -49,27 +49,41 @@ I’m a **Computer Engineering student and Full-Stack Developer** passionate abo
 - 🎨 **Vintage Vibrance** – An image editor with filters, effects & colorization features.  
 - 💡 **Hackathon Projects** – Innovative solutions designed during national hackathons & ideathons.  
 
----
+---  
 
-# 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravanisdakve&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="165" />
+<div align="center">  
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanisdakve&layout=compact&theme=tokyonight" height="165" />
-</p>
+  <h2>GitHub Stats</h2>  
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shravanisdakve&theme=tokyonight&hide_border=false" height="165" />
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shravanisdakve&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="165" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shravanisdakve&layout=compact&theme=tokyonight" height="165" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=shravanisdakve&theme=tokyonight" height="165" />
+
+</div>
 
 ---
-## 🧠 LeetCode Info  
 
-<div align="center">
-  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo&ext=contest" />
+<div align="center">  
+
+  <h2>Leetcode Info</h2>  
+
+  <a href="https://leetcode.com/shravanisdakve/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/20261.gif" height="170" style="margin:10px;" />
   </a>
+  <a href="https://leetcode.com/shravanisdakve/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/20262.gif" height="170" style="margin:10px;" />
+  </a>
+  <a href="https://leetcode.com/shravanisdakve/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="170" style="margin:10px;" />
+  </a>
+  <a href="https://leetcode.com/shravanisdakve/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2650.gif" height="170" style="margin:10px;" />
+  </a>
+
 </div>
 
 ---
@@ -77,16 +91,16 @@ I’m a **Computer Engineering student and Full-Stack Developer** passionate abo
 # 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/shravani-dakve-719068258/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:shravanisdakve@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/shravanisdakve">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://leetcode.com/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/shravanisdakve/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
