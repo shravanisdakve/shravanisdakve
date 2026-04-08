@@ -51,12 +51,17 @@ I’m a **Computer Engineering student and Full-Stack Developer** passionate abo
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravanisdakve&show_icons=true&theme=tokyonight" alt="Shravani's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanisdakve&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shravanisdakve&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanisdakve&layout=compact&theme=tokyonight" height="165" />
 </p>
-<img src="https://nirzak-streak-stats.vercel.app/?user=shravanisdakve&theme=tokyonight" />
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shravanisdakve&theme=tokyonight&hide_border=false" height="165" />
+</p>
 
 ---
 ## 🧠 LeetCode Info  
