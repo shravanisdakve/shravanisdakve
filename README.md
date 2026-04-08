@@ -20,17 +20,25 @@ I’m a **Computer Engineering student and Full-Stack Developer** passionate abo
 - 💬 Ask me about: **JavaScript, Python, React, Node.js**  
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack  
+
 <p align="center">
-<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Frontend-HTML5-orange?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/Frontend-CSS3-blue?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github" />
+  
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" /><br/><br/>
+  
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /><br/><br/>
+  
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" /><br/><br/>
+  
+  <b>Databases & Cloud</b><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite,aws,gcp,azure" /><br/><br/>
+  
+  <b>Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
+
 </p>
 
 ---
@@ -48,15 +56,33 @@ I’m a **Computer Engineering student and Full-Stack Developer** passionate abo
   <img src="https://github-readme-stats.vercel.app/api?username=shravanisdakve&show_icons=true&theme=tokyonight" alt="Shravani's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanisdakve&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
+<img src="https://nirzak-streak-stats.vercel.app/?user=shravanisdakve&theme=tokyonight" />
 
+---
+## 🧠 LeetCode Info  
+
+<div align="center">
+  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo&ext=contest" />
+  </a>
+</div>
 
 ---
 
 # 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shravani-dakve-719068258/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:shravanisdakve@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/shravanisdakve"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/shravani-dakve-719068258/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:shravanisdakve@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/shravanisdakve">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
