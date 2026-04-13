@@ -22,24 +22,21 @@ I’m a **Computer Engineering student and Full-Stack Developer** passionate abo
 
 # 🛠️ Tech Stack  
 
-<p align="center">
-  
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" /><br/><br/>
-  
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /><br/><br/>
-  
-  <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" /><br/><br/>
-  
-  <b>Databases & Cloud</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite,aws,gcp,azure" /><br/><br/>
-  
-  <b>Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
+<div align="center">
 
+<!-- Core Stack -->
+<img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,mongodb" />
+<!-- Supporting Stack -->
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,express,django,mysql,postgres" />
+<!-- Tools & Cloud -->
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,aws,firebase" />
+
+<!-- AI -->
+<p>
+⚡ <b>AI:</b> NLP • RAG • OpenCV • Gemini API
 </p>
+
+</div>
 
 ---
 
@@ -67,7 +64,7 @@ I’m a **Computer Engineering student and Full-Stack Developer** passionate abo
 
 ---
 
-<div align="center">  
+<!-- <div align="center">  
 
   <h2>Leetcode Info</h2>  
 
@@ -84,7 +81,7 @@ I’m a **Computer Engineering student and Full-Stack Developer** passionate abo
     <img src="https://assets.leetcode.com/static_assets/others/2650.gif" height="170" style="margin:10px;" />
   </a>
 
-</div>
+</div> -->
 
 ---
 
