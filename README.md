@@ -22,16 +22,17 @@ I’m a **Computer Engineering student and Full-Stack Developer** passionate abo
 
 # 🛠️ Tech Stack  
 
-<div align="center">
-
-<!-- Core Stack -->
-<img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,mongodb" />
-<!-- Supporting Stack -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,express,django,mysql,postgres" />
-<!-- Tools & Cloud -->
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,aws,firebase" />
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Frontend-HTML5-orange?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/Frontend-CSS3-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
