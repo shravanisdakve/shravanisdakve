@@ -31,11 +31,6 @@ I’m a **Computer Engineering student and Full-Stack Developer** passionate abo
 <!-- Tools & Cloud -->
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,aws,firebase" />
 
-<!-- AI -->
-<p>
-⚡ <b>AI:</b> NLP • RAG • OpenCV • Gemini API
-</p>
-
 </div>
 
 ---
