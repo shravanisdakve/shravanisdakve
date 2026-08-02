@@ -12,7 +12,8 @@
 
 # 💫 About Me
 Hi, I’m **Shravani Dakve** 👩‍💻  
-I’m a **Computer Engineering student and Full-Stack Developer** passionate about building **scalable applications and intelligent digital solutions**.  
+I'm a Computer Engineering graduate passionate about building software that solves real-world problems. I enjoy developing full-stack web applications, experimenting with AI, and turning ideas into practical products.
+Over the past few years, I've worked on AI-powered platforms, machine learning applications, and web solutions through personal projects and hackathons. I'm always looking for opportunities to learn, build, and create software that makes an impact.
 
 - 🔭 Currently working on: **NexusAI – A virtual study platform that helps learners stay organized, access resources, and improve productivity with AI-powered features.**  
 - 🌱 Learning: **React Native & Google Cloud AI tools**  
